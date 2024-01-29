@@ -1,0 +1,48 @@
+{
+    "explorer.confirmDelete": true,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.highlightActiveBracketPair": true,
+    "editor.guides.highlightActiveIndentation": true,
+    "editor.guides.bracketPairs": true,
+    "explorer.confirmDragAndDrop": false,
+    "editor.fontSize": 15,
+    "better-comments.multilineComments": true,
+    "workbench.colorTheme": "One Dark Pro",
+    "[html, javascript, json, css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "colorInfo.fields": [
+        "rgb",
+        "hex"
+    ],
+    "[astro]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "html.format.enable": false,
+    "html.format.preserveNewLines": false,
+    "javascript.format.enable": false,
+    "javascript.format.insertSpaceAfterConstructor": true,
+    "editor.formatOnSave": true,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "prettier.tabWidth": 4,
+    "prettier.insertPragma": true,
+    "prettier.printWidth": 150,
+    "prettier.useEditorConfig": false,
+    "prettier.arrowParens": "always",
+    "prettier.bracketSpacing": true,
+    "prettier.endOfLine": "lf",
+    "prettier.htmlWhitespaceSensitivity": "css",
+    "prettier.singleAttributePerLine": false,
+    "prettier.bracketSameLine": false,
+    "prettier.jsxSingleQuote": false,
+    "prettier.proseWrap": "preserve",
+    "prettier.quoteProps": "as-needed",
+    "prettier.requirePragma": false,
+    "prettier.semi": true,
+    "prettier.singleQuote": false,
+    "prettier.trailingComma": "es5",
+    "prettier.useTabs": false,
+    "prettier.embeddedLanguageFormatting": "auto",
+    "prettier.vueIndentScriptAndStyle": false,
+    "prettier.ignorePath": "./.gitignore"
+}
